@@ -48,11 +48,11 @@ You can customize how often to commit and how many commits a day to make, etc.
 For instance, with the following command, the script will make from 1 to 12 
 commits a day. It will commit 60% days a year.
 ```sh
-python contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
+python3 contribute.py --max_commits=12 --frequency=60 --repository=git@github.com:user/repo.git
 ```
 Use `--no_weekends` option if you don't want to commit on weekends
 ```sh
-python contribute.py --no_weekends
+python3 contribute.py --no_weekends
 ```
 If you do not set the `--repository` argument the script won't push the changes. 
 This way you can import the generated repository yourself.
