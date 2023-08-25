@@ -103,8 +103,8 @@ a new one which is *not initialized*.
 
 [discord-src]: https://img.shields.io/badge/chat-discord-dicord?style=flat&colorA=18181B&colorB=14F195&logo=discord
 [discord-href]: https://www.chat.nyxb.zip
-[license-src]: https://img.shields.io/github/license/nyxblabs/@nyxb/commands.svg?style=flat&colorA=18181B&colorB=14F195
-[license-href]: https://github.com/nyxblabs/@nyxb/commands/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/nyxb/TimeWarpCommits.svg?style=flat&colorA=18181B&colorB=14F195
+[license-href]: https://github.com/nyxb/TimeWarpCommits/blob/main/LICENSE
 
 <!-- Cover -->
 [cover-src]: https://raw.githubusercontent.com/nyxb/TimeWarpCommits/master/.github/assets/cover-github.png
