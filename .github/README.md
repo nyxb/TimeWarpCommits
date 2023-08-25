@@ -1,7 +1,6 @@
 [![cover][cover-src]][cover-href]
 [![Discord][discord-src]][discord-href]
 [![License][license-src]][license-href]
-
 =========================
 
 # TimeWarpCommits
